@@ -1,0 +1,17 @@
+/* Style for messages sent by the local client (on the right) */
+.local-message {
+  text-align: right;
+  background-color: #e0f2fe; /* Customize as needed */
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+/* Style for messages sent by other clients (on the left) */
+.other-message {
+  text-align: left;
+  background-color: #f0f0f0; /* Customize as needed */
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
